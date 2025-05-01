@@ -1,4 +1,4 @@
-// //Part 1: Refactoring Old Code
+// //Part 1: feeling loopy
 
 // let str ="ID,Name,Occupation,Age\n42,Bruce,Knight,41\n57,Bob,Fry Cook,19\n63,Blaine,Quiz Master,58\n98,Bill,Doctor’s Assistant,26"
 // let row=[];
@@ -16,6 +16,8 @@
 //         row += str[i];
 //     }
 // }
+
+// //Part 1: Refactoring code 
 
 let varData = `ID,Name,Occupation,Age\n42,Bruce,Knight,41\n57,Bob,Fry Cook,19\n63,Blaine,Quiz Master,58\n98,Bill,Doctor’s Assistant,26`;
 let row = []
